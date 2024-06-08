@@ -16,7 +16,7 @@ Before you begin, ensure you have a modern web browser installed on your local m
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/responsive-landing-page.git
+git clone https://github.com/student-PrajaktaDharaskar/BatchSystem
 cd responsive-landing-page
 
 Open the project:
